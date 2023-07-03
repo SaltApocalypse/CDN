@@ -8718,6 +8718,7 @@ a.toc-link {
     top: 0;
     height: 3px;
     background: #bebebe;
+    color: lightpink;
     transition-property: width, background;
     transition-duration: 1s, 1s;
     z-index: 99999
