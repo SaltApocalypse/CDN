@@ -1,2 +1,2 @@
 # CDN
-CDN for Blog.
+拿来放博客或者其他一些东西的个人CDN仓库。
