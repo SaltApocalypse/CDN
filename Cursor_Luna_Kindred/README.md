@@ -10,3 +10,10 @@
 ©copyright 2023 Execute
 
 ©copyright 2023 Salt_Apocalypse
+
+
+# CDN
+
+```
+https://cdn.jsdelivr.net/gh/saltapocalypse/CDN/Cursor_Luna_Kindred/Memes/<file>
+```
